@@ -1,0 +1,33 @@
+
+.jumbotron{
+    padding-top: 5rem;
+    background-color: white;
+}
+ 
+#pengalaman{
+background-color: #273036;
+}
+
+h2{
+    color: #273036;
+    font-family: 'Rubik Wet Paint',cursive;
+}
+
+h3{
+    color: white;
+    font-family: 'Rubik Wet Paint',cursive;
+}
+
+h4{
+    color: #273036;
+    font-family: 'Rubik Wet Paint',cursive;
+}
+
+a1{
+    color: white;
+    font-family: 'Rubik Wet Paint',cursive;
+}
+
+section{
+    padding-top: 6REM;
+}
